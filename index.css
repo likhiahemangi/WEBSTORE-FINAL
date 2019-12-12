@@ -233,6 +233,7 @@ input{
 }
 ul,ol{
     list-style-type: disc;
+    line-height: 0.2rem;
 }
 .find{
     height: 1.3rem;
@@ -242,8 +243,8 @@ ul,ol{
 .filters{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    color: white;
-    background-color: black;
+    color: black;
+    background-color:wheat;
     margin-top: 1rem;
 }
 main{
