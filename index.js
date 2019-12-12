@@ -31,7 +31,7 @@ const allproducts = [
     },
     {
         id: 3,
-        name: `Boy Trackpent`,
+        name: `Boy Trackpant`,
         image: "img/trackpent.jpeg",
         price: 54.00,
         quantity: 2,
