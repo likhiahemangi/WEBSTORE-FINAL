@@ -252,7 +252,7 @@ main{
     height: 15vh;
    padding-left: 2rem;
 }
-@media screen and (max-width: 1800px) {
+@media screen and (max-width: 1640px) {
     a {
         margin: 0;
         padding: 0;
@@ -365,6 +365,8 @@ main{
         color: white;   
     }
     .footerlogo{
+        display: grid;
+        grid-template-columns: 1fr;
         margin: 0%;
         border: none;
     }

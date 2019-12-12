@@ -218,7 +218,7 @@ const allproducts = [
 },
 {
   id: 21,
-  name: `Girl pent`,
+  name: `Girl pant`,
   image: "img/pent.jpg",
   description: `Newest`,
   price: 40.00,
@@ -229,7 +229,7 @@ const allproducts = [
 },
 {
   id: 22,
-  name: `Fork`,
+  name: `Woman Dress`,
   image: "img/red fork.jpg",
   price: 45.00,
   quantity: 4,
@@ -239,7 +239,7 @@ const allproducts = [
 },
 {
   id: 23,
-  name: `Pent`,
+  name: `Pant`,
   image: "img/blue legins.jpg",
   price: 30.00,
   quantity: 4,
@@ -249,7 +249,7 @@ const allproducts = [
 },
 {
   id: 24,
-  name: `Fork`,
+  name: `Woman Dress`,
   image: "img/white fork.jpg",
   price: 20.00,
   quantity: 4,
