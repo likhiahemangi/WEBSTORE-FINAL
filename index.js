@@ -17,8 +17,7 @@ const allproducts = [
         category: `Girl`,
         color: `Blue`,
         size: `M`
-
-    }
+      }
     ,
     {
         id: 2,
